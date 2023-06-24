@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 🔭 I’m currently working on Content creator<br>👯 I’m looking to collaborate on frontent web design<br>🌱 I’m currently learning flutter<br>💬 Ask me about anything about frontet web dev<br>⚡ Fun fact- i am an introvert !
 
@@ -19,12 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HasanSajjad21&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HasanSajjad21&icon=4&color=3)](https://visitcount.itsvg.in)
