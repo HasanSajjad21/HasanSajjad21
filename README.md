@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own company<br>👯 I’m looking to collaborate on Front-end web developer<br>🌱 I’m currently learning flutter<br>💬 Ask me about anything about Front-end web developer<br>⚡ Fun fact- i am an introvert !
+🔭 I’m currently working on my own company<br>👯 I’m looking to collaborate on Front-end web developer<br>🌱 I’m currently learning UI/UX design & flutter<br>💬 Ask me about anything about UI/UX & Front-end web developer<br>⚡ Fun fact- i am an introvert !
 
 
 ## 🌐 Socials:
